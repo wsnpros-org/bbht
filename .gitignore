@@ -1,0 +1,23 @@
+# General
+*.log
+*.tmp
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Go
+bin/
+pkg/
+*.exe
+*.test
+
+# Environment
+.env
+.venv/
+*.bak
+
+# Tools
+tools/
