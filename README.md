@@ -1,9 +1,24 @@
-# Bug Bounty Hunting Toolkit (bbht)
+# Recon Tools Setup
 
-This is my custom recon and automation environment for bug bounty research. Inspired by NahamSec's recon profile, expanded with automation, social media content hooks, and GitHub integration.
+This repository helps you quickly set up a recon environment with essential tools, scripts, and handy shell functions — all organized for efficient security reconnaissance.
 
-## Install
+---
 
-```bash
-bash install.sh
-source ~/.bashrc
+## Table of Contents
+
+- [Setup](#setup)  
+- [Usage](#usage)  
+- [Tools Installed](#tools-installed)  
+- [Shell Functions](#shell-functions)  
+- [Targets and Notes](#targets-and-notes)  
+- [Git Workflow](#git-workflow)  
+
+---
+
+## Setup
+
+1. **Clone the repo:**
+
+   ```bash
+   git clone https://github.com/yourusername/yourrepo.git
+   cd yourrepo
